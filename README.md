@@ -93,6 +93,7 @@ python main.py
 ---
 
 ## 📁 Project Structure
+```bash
 ├── main.ipynb
 ├── corpus.txt
 ├── test.txt
@@ -100,6 +101,7 @@ python main.py
 ├── Problem_Statement.pdf
 └── README.md
 └── LICENSE
+```
 
 ---
 
